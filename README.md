@@ -1,2 +1,2 @@
 # School-Management-Application
-its manage money transaction in the school. it is written in java language.
+its developed to manage money transaction in the school and it is written in java language.
